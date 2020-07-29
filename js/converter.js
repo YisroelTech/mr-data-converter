@@ -35,7 +35,7 @@ function DataConverter(nodeId) {
                                 {"text":"XML - Properties",       "id":"xmlProperties",    "notes":""},
                                 {"text":"XML - Nodes",            "id":"xml",              "notes":""},
                                 {"text":"XML - Illustrator",      "id":"xmlIllustrator",   "notes":""}];
-  this.outputDataType         = "jiratable";
+  this.outputDataType         = "rmtable";
 
   this.columnDelimiter        = "\t";
   this.rowDelimiter           = "\n";
